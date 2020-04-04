@@ -4,13 +4,13 @@
 > Here in this project we are using two IR sensor modules namely left sensor and right sensor. When both left and right sensor senses white then robot move forward.
 ## Basic Working 
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/working.jpg)
--**If left sensor comes on black line then robot turn left side.**
+- **If left sensor comes on black line then robot turn left side.**
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/working..left.jpg)
--**If right sensor sense black line then robot turn right side until both**
+- **If right sensor sense black line then robot turn right side until both.**
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/working..right.jpg)
--**Sensor comes at white surface. When white surface comes robotstarts moving on forward again.**
+- **Sensor comes at white surface. When white surface comes robotstarts moving on forward again.**
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/working..forward.jpg)
--**If both sensors comes on black line, robot stops.**
+- **If both sensors comes on black line, robot stops.**
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/working..stop.jpg)
 ## CIRCUIT DIAGRAM
 ![](https://github.com/Harshad141/LINE-FOLLOWER-ROBOT/blob/master/circuit%20diagram.jpg)
